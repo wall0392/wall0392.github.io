@@ -1,0 +1,13 @@
+For the project I was excited to bring to life the portfolio I had just designed for the UX class. When it came to setting up the basic html I started with simply looking at the prototype I had and adding the appropriate tags in the appropriate order. However, getting the website to look like what I had designed was both easier and harder than I expected. There were a few things that though I knew it could be done I hadn’t done it before so I spent a lot of time on Google and websites like www.w3schools.com to figure out how to do the things I needed to do. The first thing that I had never actually done was putting links to certain spots on the same page. It’s quite simple but I had to spend the time to learn how to do it. 
+The next thing I had to figure out how to do was having a nav bar that is sticky. I was able to find an explanation online of how it should work as well as the actual code to make it work. That was one thing that worked with a lot less effort than I expected and was fun because before that I hadn’t incorporated javaScript into one of my projects. 
+Honestly, the things that gave me the most trouble with this whole project were my grids. I hadn’t really used them last year because I was sick the week the teacher taught about them. So learning them this semester was new to me. There are many things that you can do with grids but they’re very finicky about it. I designed my website to have grids within grids and that was the part that gave me a headache. 
+For the design, I almost entirely went with whatever the prototype dictated. The only real difference is that I decided to have the social media buttons float left out of the nav bar when the screen size is smaller so that none of the elements is cramped. 
+The only pictures that are not 100% my own content are the social media link pictures. Those I downloaded from a free library and adapted for my own needs. Of course, I would not do this for a real website because most companies have really strict guidelines for how their logo can be used.
+I learned a few things from doing this project: How to link things on the same page, a greater knowledge of grids, how to incorporate elements of javaScript in my page, how to make floating social media elements. Mostly though I feel that it’s just given me more confidence in my skills as a coder. 
+
+
+
+
+Resources: 
+https://css-tricks.com/convert-menu-to-dropdown/ 
+https://www.w3schools.com/howto/howto_js_sticky_header.asp 
